@@ -1,0 +1,2 @@
+# Drop of Hopes Blood Donation Website Project
+ Drop of Hopes is a website developed to serve the blood to the receivers from their nearest blood bank by contacting the relevant donor.The donor need to register him/herself vice a versa with receiverTwilio API is used to make a call or send message to the donor to contact with receiver ,Javascript is used for frontend and MongoDB is used for Database .
